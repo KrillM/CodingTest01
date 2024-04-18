@@ -16,7 +16,7 @@ public class Q22_11021 {
         }
 
         for(int i=0;i<z.length;i++){
-            System.out.println("Case #"+(i+1)+": " + z[i]);
+            System.out.println("Case #"+(i+1)+": " +y[i][0]+" + "+y[i][1]+" = " + z[i]);
         }
     }
 }
